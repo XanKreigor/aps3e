@@ -13,10 +13,9 @@ A free PlayStation 3 emulator for Android devices,base on RPCS3
 
 ## Support the Project  
 ❤️ Help sustain development through donations:  
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)]()  
 
 💰 **Source Code Milestone**:  
-Full source code will be released when total donations reach **$2,000 USD**.  
+Full source code will be released when total donations reach **0 USD**.  
 
 ## Security Notice  
 ❗ This project has **no alternative download channels**.  
