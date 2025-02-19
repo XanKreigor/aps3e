@@ -1,4 +1,4 @@
-
+Note this project is archived
 # APS3e - Android PS3 Emulator  
 **Free | Ad-free | Open Source (Waiting for full source released)**
 
