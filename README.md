@@ -3,6 +3,7 @@ Note this project is archived
 **Free | Ad-free | Open Source (Waiting for full source released)**
 
 Edit:original repo deleted
+re edit rpcs3 developer working on rpcs3 emulator for android i think aps3e project is dead
 
 
 
